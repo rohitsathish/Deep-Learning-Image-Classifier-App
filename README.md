@@ -1,6 +1,9 @@
 # Deep-Learning-Image-Classifier-App
 
 This project is based on the 'Create your own Image Classifier' project of the Introduction to Machine Learning with PyTorch nanodegree on Udacity.
+Based on the vgg11 model, the program was able to classify flower images into 102 categories with 74% accuracy after just 5 minutes of training.
+
+### Project Overview
 
 Going forward, AI algorithms will be incorporated into more and more everyday applications. For example, you might want to include an image classifier in a smart phone app. To do this, you'd use a deep learning model trained on hundreds of thousands of images as part of the overall application architecture. A large part of software development in the future will be using these types of models as common parts of applications.
 
