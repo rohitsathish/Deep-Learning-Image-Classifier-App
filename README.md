@@ -8,11 +8,8 @@ In this project, you'll train an image classifier to recognize different species
 
 The project is broken down into multiple steps:
 
-Load and preprocess the image dataset
-Train the image classifier on your dataset
-Use the trained classifier to predict image content
-We'll lead you through each part which you'll implement in Python.
+1. Load and preprocess the image dataset
+2. Train the image classifier on your dataset
+3. Use the trained classifier to predict image content
 
 When you've completed this project, you'll have an application that can be trained on any set of labeled images. Here your network will be learning about flowers and end up as a command line application. But, what you do with your new skills depends on your imagination and effort in building a dataset. For example, imagine an app where you take a picture of a car, it tells you what the make and model is, then looks up information about it. Go build your own dataset and make something new.
-
-First up is importing the packages you'll need. It's good practice to keep all the imports at the beginning of your code. As you work through this notebook and find you need to import a package, make sure to add the import up here.
