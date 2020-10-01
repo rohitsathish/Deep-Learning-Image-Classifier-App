@@ -18,7 +18,7 @@ The project is broken down into multiple steps:
 
 When you've completed this project, you'll have an application that can be trained on any set of labeled images. Here your network will be learning about flowers and end up as a command line application. But, what you do with your new skills depends on your imagination and effort in building a dataset. For example, imagine an app where you take a picture of a car, it tells you what the make and model is, then looks up information about it. Go build your own dataset and make something new.
 
-# Usage
+### Usage
 
 - Train a new network on a data set with train.py
 
